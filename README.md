@@ -2,7 +2,7 @@
 
 This project focused on analyzing Amazon sales performance using SQL and Power BI to extract meaningful business insights from transactional data.
 
-The goal was to evaluate product category performance, state-level sales distribution, and overall profitability.
+The goal was to evaluate product category performance, state level sales distribution, and overall profitability.
 
 Tools & Technologies Used
 
